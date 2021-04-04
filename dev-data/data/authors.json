@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "60648d28a4d69e420050ae0b",
+    "name": "Patrick Rothfuss",
+    "age": 44
+  },
+  {
+    "_id": "60648d83a4d69e420050ae0c",
+    "name": "Brandon Sanderson",
+    "age": 42
+  },
+  {
+    "_id": "60648ddfa4d69e420050ae0d",
+    "name": "Terry Pratchett",
+    "age": 66
+  },
+  {
+    "_id": "6069643de871c23ae0e6bc66",
+    "name": "Emmanuel Adebayo",
+    "age": 29
+  }
+]

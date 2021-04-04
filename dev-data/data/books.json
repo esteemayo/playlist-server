@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "606493c2e0907e365082036a",
+    "name": "The Long Earth",
+    "genre": "Sci-Fi",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "60649429e0907e365082036b",
+    "name": "The Colour of Magic",
+    "genre": "Fantasy",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "6064943de0907e365082036c",
+    "name": "The Light Fantastic",
+    "genre": "Fantasy",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "60649467e0907e365082036d",
+    "name": "The Name of the Wind",
+    "genre": "Fantasy",
+    "authorId": "60648d28a4d69e420050ae0b"
+  },
+  {
+    "_id": "60649492e0907e365082036e",
+    "name": "The Final Empire",
+    "genre": "Fantasy",
+    "authorId": "60648d83a4d69e420050ae0c"
+  },
+  {
+    "_id": "606494a8e0907e365082036f",
+    "name": "The Hero of Ages",
+    "genre": "Fantasy",
+    "authorId": "60648d83a4d69e420050ae0c"
+  },
+  {
+    "_id": "60672d8ee871c23ae0e6bc5f",
+    "name": "HogFather",
+    "genre": "Fantasy",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "60673236e871c23ae0e6bc63",
+    "name": "Thud",
+    "genre": "Fantasy",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "6067331ee871c23ae0e6bc64",
+    "name": "The Long Universe",
+    "genre": "Sci-Fi",
+    "authorId": "60648ddfa4d69e420050ae0d"
+  },
+  {
+    "_id": "6069645ae871c23ae0e6bc67",
+    "name": "Node.js Crash Course",
+    "genre": "Technology",
+    "authorId": "6069643de871c23ae0e6bc66"
+  }
+]
