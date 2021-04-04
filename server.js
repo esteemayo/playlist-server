@@ -10,7 +10,10 @@ dotenv.config({ path: './config.env' });
 const app = require('./app');
 
 // Database local
-const db = process.env.DATABASE.replace('<DATABASE_PASSWORD>', process.env.PASSWORD);
+const db = process.env.DATABASE.replace(
+        '<DATABASE_PASSWORD>',
+        process.env.PASSWORD
+    );
 
 // MongoDB Atlas
 const dbLocal = process.env.DATABASE_LOCAL;

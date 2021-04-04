@@ -10,10 +10,10 @@ const schema = require('./schema/schema');
 
 const app = express();
 
-app.use(cors());
-
 // Set security http headers
 app.use(helmet());
+
+app.use(cors());
 
 // Acess-Control-Allow-Origin
 app.options('*', cors());
